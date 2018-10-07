@@ -11,7 +11,7 @@ My predictions on "Find the secret binary outcome" using different models.
    2. Predictive features are interval (continuous) or categorical
    3. Features are independent of one another
    4. Sample size is adequate – Rule of thumb: 50 records per predictor
-  ## 2. Linear Regression Model()
+  ## 2. Linear Regression Model(https://github.com/aparnaaidith/Kaggle-   Competiton/blob/master/Find%20the%20secret%20binary%20outcome%20-%20using%20Linear%20Regression.ipynb)
   ### What is Linear Regression?
   Linear regression is a basic and commonly used type of predictive analysis.  The overall idea of regression is to examine     two things: 
   (1) does a set of predictor variables do a good job in predicting an outcome (dependent) variable?  
