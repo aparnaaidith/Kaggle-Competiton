@@ -18,3 +18,5 @@ My predictions on "Find the secret binary outcome" using different models.
   (2) Which variables in particular are significant predictors of the outcome variable, and in what way do they–indicated by      the magnitude and sign of the beta estimates–impact the outcome variable?  
   
   These regression estimates are used to explain therelationship between one dependent variable and one or more independent     variables.The simplest form of the regression equation with one dependent and one independent variable is defined by the       formula y = c + b*x, where y = estimated dependent variable score, c = constant, b = regression coefficient, and x = score     on the independent variable.
+  ## 3. XGBRegressor Model
+    For more details click on https://www.kdnuggets.com/2017/10/xgboost-top-machine-learning-method-kaggle-explained.html
