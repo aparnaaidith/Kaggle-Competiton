@@ -1,3 +1,5 @@
+*NOTE* : If you have issue opening the jupyter notebooks ,kindly go to this url and open the notebooks https://nbviewer.jupyter.org/github/aparnaaidith/
+
 # Kaggle-Competiton
 My predictions on "Find the secret binary outcome" using different models.
   ## 1. Logistic Regression Model(https://github.com/aparnaaidith/Kaggle-Competiton/blob/master/Find%20the%20secret%20binary%20outcome%20-%20using%20Logistic%20Regression.ipynb)
